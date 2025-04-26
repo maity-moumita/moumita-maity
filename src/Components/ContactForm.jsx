@@ -18,7 +18,7 @@ const ContactForm = () => {
     const whatsappMessage = `Hello, I am ${name} (${email})%0A%0A${message}`;
 
     
-    const phoneNumber = "919979738295"; 
+    const phoneNumber = "917987011984"; 
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${whatsappMessage}`;
 
     window.open(whatsappUrl, "_blank");
